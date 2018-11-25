@@ -81,3 +81,5 @@ module ClientX
     end
   end
 end
+
+ClientX::Executor.new.execute!
