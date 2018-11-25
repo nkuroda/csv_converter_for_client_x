@@ -1,9 +1,9 @@
 @ECHO OFF
 REM +--------------------------------------------------------------------+
-REM | DESCRIPTION: | ã“ã®Windowsãƒãƒƒãƒã¯ `csv_convertor.rb` ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’å‘¼ã³å‡ºã—ã¦çµ‚äº†ã™ã‚‹ãƒãƒƒãƒã§ã™
+REM | DESCRIPTION: | ‚±‚ÌWindowsƒoƒbƒ`‚Í `csv_convertor.rb` ƒXƒNƒŠƒvƒg‚ðŒÄ‚Ño‚µ‚ÄI—¹‚·‚éƒoƒbƒ`‚Å‚·
 REM +--------------+-----------------------------------------------------+
 
-REM ã“ã®ãƒãƒƒãƒãŒå­˜åœ¨ã™ã‚‹ãƒ•ã‚©ãƒ«ãƒ€ã«ç§»å‹•ã—ã€ãã“ã‚’åŸºç‚¹ã«ã™ã‚‹ï¼ˆãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã¯ `csv_convertor.rb`ã¨åŒä¸€ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«é…ç½®ã—ã¦ãã ã•ã„ï¼‰
+REM ‚±‚Ìƒoƒbƒ`‚ª‘¶Ý‚·‚éƒtƒHƒ‹ƒ_‚ÉˆÚ“®‚µA‚»‚±‚ðŠî“_‚É‚·‚éiƒoƒbƒ`ƒtƒ@ƒCƒ‹‚Í `csv_convertor.rb`‚Æ“¯ˆêƒfƒBƒŒƒNƒgƒŠ‚É”z’u‚µ‚Ä‚­‚¾‚³‚¢j
 pushd %~dp0
 
 ruby csv_converter.rb
