@@ -1,0 +1,3 @@
+source_dir: './source'
+dist_dir: './dist'
+backup_dir: './backup'
